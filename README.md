@@ -27,4 +27,8 @@ I'm krishna, a 16 year old developer from India. Worked with Python and PostgreS
   
 </div>
 
+## Repositories
+
+<a href="https://github.com/krshhn/opsec"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krshhn&repo=incurify&theme=transparent"></a>
+
 </div>
