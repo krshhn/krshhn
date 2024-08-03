@@ -6,4 +6,9 @@
 
 _**Jack of all trades, master of none.**_
 
+<div>
+  <a href="https://dev.to/krshhn"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to/krshhn"></img></a>
+
+</div> 
+
 </div>
