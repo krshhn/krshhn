@@ -4,4 +4,6 @@
 
 <h1>krshhn</h1>
 
+_**Jack of all trades, master of none.**_
+
 </div>
