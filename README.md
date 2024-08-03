@@ -34,6 +34,7 @@ I'm krishna, a 16 year old developer from India. Worked with Python and PostgreS
 <a href="https://github.com/krshhn/opsec"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krshhn&repo=opsec&theme=transparent"></a>
 
 ## Contact
-Discord: @krshhn
+Discord: @krshhn  
+Mail: [krshhn@incurify.xyz](mailto:krshhn@incurify.xyz)
 
 </div>
