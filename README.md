@@ -22,4 +22,9 @@ I'm krishna, a 16 year old developer from India. Worked with Python and PostgreS
   Incurify offers advanced Discord bots designed to prioritize community protection while enhancing growth. Our solutions empower server admins with tools that effectively combat scams, hacks, and malicious links.
 </div>
 
+###
+<div align="left">
+  
+</div>
+
 </div>
