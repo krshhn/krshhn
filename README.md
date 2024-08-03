@@ -12,7 +12,7 @@ _**Jack of all trades, master of none.**_
 </div> 
 
 <div align="left">
-I'm krishna, a 16 year old developer from India. Worked with Python and PostgreSQL. Experienced discord bot developer. Currently learning frontend.
+I'm krishna, a 16 year old developer from India. Worked with Python and PostgreSQL. Experienced discord bot developer. Currently learning frontend and C Language.
   
 </div>
 
