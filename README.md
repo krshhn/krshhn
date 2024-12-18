@@ -34,7 +34,7 @@ Web3 Alpha Community for creators, founders and freelancers!
 <a href="https://github.com/krshhn/opsec"><img src="https://github-readme-stats.vercel.app/api/pin/?username=krshhn&repo=opsec&theme=transparent"></a>
 
 ## Contact
-Discord: `@krshhn`  
-Mail: [krshhn@incurify.xyz](mailto:krshhn@incurify.xyz)
+Discord: `@rouge_eth`  
+Mail: [rouge@incurify.xyz](mailto:rouge@incurify.xyz)
 
 </div>
